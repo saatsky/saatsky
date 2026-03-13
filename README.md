@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saatsky
-- 👀 I’m interested in Media & Brodcast and IoT 
+- 👀 I’m interested in Satellite, Media & Brodcast and IoT 
 - 🌱 I’m currently learning ... life hacks
 - 💞️ I’m looking to collaborate on Skyline Dojo Community
 - 📫 How to reach me, via email  
